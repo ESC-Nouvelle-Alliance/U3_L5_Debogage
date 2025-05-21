@@ -1,0 +1,3 @@
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_Debogage\U3_L6_Debogage\obj\Debug\U3_L6_Debogage.csproj.AssemblyReference.cache
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_Debogage\U3_L6_Debogage\obj\Debug\U3_L6_Debogage.csproj.SuggestedBindingRedirects.cache
+C:\02 Northrup\03 Informatique 11e 12e\00 ICS3U NORTHRUP\Unite 3 Techniques prog\Code\U3_L6_Debogage\U3_L6_Debogage\obj\Debug\U3_L6_Debogage.csproj.CoreCompileInputs.cache
